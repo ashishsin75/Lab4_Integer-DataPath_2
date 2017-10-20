@@ -1,6 +1,0 @@
-verilog work "MPY_32.v"
-verilog work "MIPS_32.v"
-verilog work "DIV_32.v"
-verilog work "RegFile32.v"
-verilog work "ALU_32.v"
-verilog work "Intege_DataPath_2.v"

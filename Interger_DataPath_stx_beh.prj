@@ -1,7 +1,0 @@
-verilog isim_temp "MPY_32.v"
-verilog isim_temp "MIPS_32.v"
-verilog isim_temp "DIV_32.v"
-verilog isim_temp "RegFile32.v"
-verilog isim_temp "ALU_32.v"
-verilog isim_temp "Interger_DataPath.v"
-verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

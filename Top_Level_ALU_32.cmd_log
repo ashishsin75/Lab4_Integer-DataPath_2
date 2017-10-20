@@ -1,2 +1,0 @@
-xst -intstyle ise -ifn "E:/OneDrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath/Top_Level_ALU_32.xst" -ofn "E:/OneDrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath/Top_Level_ALU_32.syr" 
-xst -intstyle ise -ifn "D:/Onedrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath/Top_Level_ALU_32.xst" -ofn "D:/Onedrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath/Top_Level_ALU_32.syr" 

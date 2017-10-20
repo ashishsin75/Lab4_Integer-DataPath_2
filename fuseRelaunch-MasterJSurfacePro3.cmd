@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Onedrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath_1/TB_Integer_DataPath_isim_beh.exe" -prj "D:/Onedrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath_1/TB_Integer_DataPath_beh.prj" "work.TB_Integer_DataPath" "work.glbl" 

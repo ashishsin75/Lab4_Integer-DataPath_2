@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Onedrive/Fall 2017/CECS 440/Labs/Lab 3/Lab3_Integer DataPath_1/TB_Integer_DataPath_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TB_Integer_DataPath" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/TB_Integer_DataPath/C" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/V" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">V</obj_property>
+      <obj_property name="ObjectShortName">V</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/N" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/Z" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/ALU_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALU_OUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_OUT[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/D_OUT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">D_OUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">D_OUT[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/S_Addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">S_Addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">S_Addr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/D_Addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">D_Addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">D_Addr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/T_Addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">T_Addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">T_Addr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/D_En" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">D_En</obj_property>
+      <obj_property name="ObjectShortName">D_En</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/DT" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DT[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/T_Sel" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">T_Sel</obj_property>
+      <obj_property name="ObjectShortName">T_Sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/FS" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">FS[4:0]</obj_property>
+      <obj_property name="ObjectShortName">FS[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/HILO_Ld" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">HILO_Ld</obj_property>
+      <obj_property name="ObjectShortName">HILO_Ld</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/DY" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DY[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DY[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/PC_In" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC_In[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC_In[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/Y_Sel" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Y_Sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Y_Sel[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TB_Integer_DataPath/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

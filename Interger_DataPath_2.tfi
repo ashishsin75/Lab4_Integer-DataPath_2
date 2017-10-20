@@ -1,0 +1,27 @@
+
+
+
+// Instantiate the module
+Interger_DataPath_2 instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .S_Addr(S_Addr), 
+    .D_Addr(D_Addr), 
+    .T_Addr(T_Addr), 
+    .D_En(D_En), 
+    .DT(DT), 
+    .T_Sel(T_Sel), 
+    .FS(FS), 
+    .C(C), 
+    .V(V), 
+    .N(N), 
+    .Z(Z), 
+    .HILO_Ld(HILO_Ld), 
+    .DY(DY), 
+    .PC_In(PC_In), 
+    .Y_Sel(Y_Sel), 
+    .ALU_OUT(ALU_OUT), 
+    .D_OUT(D_OUT)
+    );
+
+
